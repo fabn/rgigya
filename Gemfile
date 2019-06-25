@@ -14,4 +14,4 @@ group :development do
 end
 
 gem 'activesupport', ">= 3.0.9"
-gem 'httparty', "~> 0.11.0"
+gem 'httparty', ">= 0.11.0"
